@@ -29,6 +29,7 @@ class ArticlesController < ApplicationController
   end
 
   def edit
+    # thi is test for heroku
   end
 
   def update
