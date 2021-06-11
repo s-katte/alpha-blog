@@ -16,6 +16,7 @@ gem 'bootstrap-will_paginate', '0.0.10'
 group :development, :test do
   gem 'pry', '~> 0.13.1'
   gem 'byebug'
+  gem 'bullet'
   gem 'sqlite3', '~>1.3.0'
 end
 
